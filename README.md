@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://fenixco.github.io/Conv_money_challenge_java_ONE7/" alt="Conversor de Monedas EGC-2025" />
-</p>
-
-
 # Conversor de Monedas 💵💱💶
 
 Desarrollado como parte del Challenge Conversor de Monedas, propuesto por Alura Latam en colaboración con Oracle en el programa ONE, como parte de la especialización Back-End.
